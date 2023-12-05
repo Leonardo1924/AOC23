@@ -1,4 +1,4 @@
-# AOC23
+
           .     .  .      +     .      .          .     .     .  .      .     .      .          .   +     .      .          .
      .       .      .     #       .           .      .       .      .          .           .     .  #       .           .
         .      .         ###            .      .      .        .               .      .      .     ###            .      .      .
@@ -29,5 +29,5 @@ This repository is a collection of my solutions to the daily coding challenges o
 
 Join me in the quest to conquer Advent of Code 2023 challenges and sharpen our problem-solving skills while enjoying the festive coding spirit!
 
-![Alt Text](https://giphy.com/gifs/santa-dougie-5xtDaryAMLjvAyN4eiY)
+![Alt](https://giphy.com/gifs/santa-dougie-5xtDaryAMLjvAyN4eiY)
                                                                                                                                   
