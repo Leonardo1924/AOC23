@@ -360,6 +360,11 @@ if __name__ == "__main__":
         elif sys.argv[1] == "day4":
             day4()
         elif sys.argv[1] == "day5":
-            day5()            
+            start = time.time()
+            day5()          
+            end = time.time()
+            total = end - start
+            total = round(total*1000)
+            print("Time taken: " + str(total) + " ms")  
         else:
             print("Invalid argument")
