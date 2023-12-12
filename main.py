@@ -29,6 +29,7 @@ from day2 import day2
 from day3 import day3
 from day4 import day4
 from day5 import day5
+from day6 import day6
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
@@ -47,5 +48,7 @@ if __name__ == "__main__":
             total = end - start
             total = round(total*1000)
             print("Time taken: " + str(total) + " ms")  
+        elif sys.argv[1] == "day6":
+            day6()
         else:
             print("Invalid argument")
